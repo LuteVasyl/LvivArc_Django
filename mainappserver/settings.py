@@ -49,6 +49,5 @@ ALLOWED_HOSTS = [
 	'lvivarc-django.onrender.com', 
 	'localhost', 
 	'127.0.0.1',
-	lvivarc-django-rgmb.onrender.com,
+	'lvivarc-django-rgmb.onrender.com',
 ]
-
